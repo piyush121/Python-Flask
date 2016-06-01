@@ -3,7 +3,7 @@ Hands on Python Flask - A micro framework for web development
 
 $ pip install Flask
 
-$ python hello.py
+$ python flaskr.py
 
 => Running on http://localhost:5000/
 
